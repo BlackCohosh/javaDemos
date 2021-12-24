@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="carvedrockfitness" />
         <module name="java-core-libraries-log-system" />
+        <module name="carvedrockfitness_no_log" />
+        <module name="carvedrockfitness" />
       </profile>
     </annotationProcessing>
   </component>
